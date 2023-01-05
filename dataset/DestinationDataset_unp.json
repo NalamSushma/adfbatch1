@@ -1,0 +1,17 @@
+{
+	"name": "DestinationDataset_unp",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "OnPremServer",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "Binary",
+		"typeProperties": {
+			"location": {
+				"type": "FileServerLocation",
+				"fileName": "file1.txt"
+			}
+		}
+	}
+}
