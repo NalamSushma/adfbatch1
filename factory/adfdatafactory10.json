@@ -1,0 +1,9 @@
+{
+	"name": "adfdatafactory10",
+	"location": "westus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "5324c00d-7490-484a-8e0a-f3f1812ed341",
+		"tenantId": "fc4bea4b-7fd9-4ce9-9e42-aeb1ae691cac"
+	}
+}
